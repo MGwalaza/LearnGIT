@@ -1,0 +1,3 @@
+Master branch stuff on document 1
+
+more stashed changes in file 1 
